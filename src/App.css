@@ -22,7 +22,7 @@ body {
   background-color: green;
   display: flex;
   width: 99%;
-  border-radius: 3px;""
+  border-radius: 3px;
   margin-bottom: 30px;
 }
 
@@ -48,9 +48,9 @@ select:focus {
   margin-bottom: 30px;
 }
 
-.ShopDetailsWrapper h3{
-  margin-bottom: px;
-  }
+.ShopDetailsWrapper h3 {
+  margin-bottom: 40px;
+}
 
 .ButtonWrapper {
   background-color: green;
