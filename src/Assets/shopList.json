@@ -1,0 +1,4108 @@
+{
+  "items": [
+    {
+      "shopInfos": {
+        "id": "001",
+        "name": "CibleR Nice",
+        "address": {
+          "streetAddress": "06700 random address",
+          "zipCode": "06700",
+          "city": "ST LAURENT DU VAR",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "003",
+        "name": "CibleR Amiens",
+        "address": {
+          "streetAddress": "80440 random address",
+          "zipCode": "80440",
+          "city": "GLISY",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "004",
+        "name": "CibleR Beauvais",
+        "address": {
+          "streetAddress": "60000 random address",
+          "zipCode": "60000",
+          "city": "BEAUVAIS",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "005",
+        "name": "CibleR Bethune",
+        "address": {
+          "streetAddress": "62232 random address",
+          "zipCode": "62232",
+          "city": "FOUQUIERES LES BETHUNE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "006",
+        "name": "CibleR Boulogne sur mer",
+        "address": {
+          "streetAddress": "62360 random address",
+          "zipCode": "62360",
+          "city": "ISQUES",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "007",
+        "name": "CibleR Calais",
+        "address": {
+          "streetAddress": "62100 random address",
+          "zipCode": "62100",
+          "city": "CALAIS",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "008",
+        "name": "CibleR Cambrai",
+        "address": {
+          "streetAddress": "59267 random address",
+          "zipCode": "59267",
+          "city": "PROVILLE - CAMBRAI",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "009",
+        "name": "CibleR Dieppe",
+        "address": {
+          "streetAddress": "76550 random address",
+          "zipCode": "76550",
+          "city": "ST AUBIN SUR SCIE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "010",
+        "name": "CibleR Evreux",
+        "address": {
+          "streetAddress": "27930 random address",
+          "zipCode": "27930",
+          "city": "GUICHAINVILLE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "011",
+        "name": "CibleR Fourmies",
+        "address": {
+          "streetAddress": "59610 random address",
+          "zipCode": "59610",
+          "city": "FOURMIES",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "012",
+        "name": "CibleR Lens",
+        "address": {
+          "streetAddress": "62880 random address",
+          "zipCode": "62880",
+          "city": "VENDIN LE VEIL",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "013",
+        "name": "CibleR Lille",
+        "address": {
+          "streetAddress": "59000 random address",
+          "zipCode": "59000",
+          "city": "LILLE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "014",
+        "name": "CibleR Leers",
+        "address": {
+          "streetAddress": "59115 random address",
+          "zipCode": "59115",
+          "city": "LEERS",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "015",
+        "name": "CibleR Rouen - Barentin",
+        "address": {
+          "streetAddress": "76360 random address",
+          "zipCode": "76360",
+          "city": "BARENTIN",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "016",
+        "name": "CibleR Rouen - Tourville",
+        "address": {
+          "streetAddress": "76410 random address",
+          "zipCode": "76410",
+          "city": "TOURVILLE LA RIVIèRE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "017",
+        "name": "CibleR St Quentin",
+        "address": {
+          "streetAddress": "02100 random address",
+          "zipCode": "02100",
+          "city": "FAYET",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "018",
+        "name": "CibleR Valenciennes",
+        "address": {
+          "streetAddress": "59174 random address",
+          "zipCode": "59174",
+          "city": "LA SENTINELLE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "019",
+        "name": "CibleR Villeneuve d'Ascq",
+        "address": {
+          "streetAddress": "59650 random address",
+          "zipCode": "59650",
+          "city": "VILLENEUVE D'ASCQ",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "020",
+        "name": "CibleR Angoulême",
+        "address": {
+          "streetAddress": "16430 random address",
+          "zipCode": "16430",
+          "city": "CHAMPNIERS",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "024",
+        "name": "CibleR Alençon",
+        "address": {
+          "streetAddress": "72610 random address",
+          "zipCode": "72610",
+          "city": "ARCONNAY",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "025",
+        "name": "CibleR Angers",
+        "address": {
+          "streetAddress": "49070 random address",
+          "zipCode": "49070",
+          "city": "BEAUCOUZE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "026",
+        "name": "CibleR Brest",
+        "address": {
+          "streetAddress": "29200 random address",
+          "zipCode": "29200",
+          "city": "BREST",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "027",
+        "name": "CibleR Caen",
+        "address": {
+          "streetAddress": "14120 random address",
+          "zipCode": "14120",
+          "city": "MONDEVILLE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "028",
+        "name": "CibleR Carentan",
+        "address": {
+          "streetAddress": "50480 random address",
+          "zipCode": "50480",
+          "city": "CARENTAN LES MARAIS",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "029",
+        "name": "CibleR Carhaix",
+        "address": {
+          "streetAddress": "29270 random address",
+          "zipCode": "29270",
+          "city": "CARHAIX-PLOUGUER",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "030",
+        "name": "CibleR Challans",
+        "address": {
+          "streetAddress": "85300 random address",
+          "zipCode": "85300",
+          "city": "CHALLANS",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "031",
+        "name": "CibleR Chateau Gontier",
+        "address": {
+          "streetAddress": "53200 random address",
+          "zipCode": "53200",
+          "city": "CHATEAU GONTIER",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "032",
+        "name": "CibleR Chateaubriant",
+        "address": {
+          "streetAddress": "44110 random address",
+          "zipCode": "44110",
+          "city": "CHATEAUBRIANT CEDEX",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "033",
+        "name": "CibleR Cherbourg",
+        "address": {
+          "streetAddress": "50470 random address",
+          "zipCode": "50470",
+          "city": "CHERBOURG EN COTENTIN",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "034",
+        "name": "CibleR Cholet",
+        "address": {
+          "streetAddress": "49300 random address",
+          "zipCode": "49300",
+          "city": "CHOLET",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "035",
+        "name": "CibleR Craon",
+        "address": {
+          "streetAddress": "53400 random address",
+          "zipCode": "53400",
+          "city": "CRAON",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "036",
+        "name": "CibleR Dinan",
+        "address": {
+          "streetAddress": "22100 random address",
+          "zipCode": "22100",
+          "city": "QUEVERT",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "037",
+        "name": "CibleR Fontenay le comte",
+        "address": {
+          "streetAddress": "85200 random address",
+          "zipCode": "85200",
+          "city": "FONTENAY LE COMTE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "038",
+        "name": "CibleR Fougères",
+        "address": {
+          "streetAddress": "35133 random address",
+          "zipCode": "35133",
+          "city": "LECOUSSE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "039",
+        "name": "CibleR Granville",
+        "address": {
+          "streetAddress": "50400 random address",
+          "zipCode": "50400",
+          "city": "GRANVILLE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "040",
+        "name": "CibleR Guingamp",
+        "address": {
+          "streetAddress": "22200 random address",
+          "zipCode": "22200",
+          "city": "ST AGATHON",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "041",
+        "name": "CibleR La roche sur Yon",
+        "address": {
+          "streetAddress": "85000 random address",
+          "zipCode": "85000",
+          "city": "LA ROCHE SUR YON",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "042",
+        "name": "CibleR Lannion",
+        "address": {
+          "streetAddress": "22300 random address",
+          "zipCode": "22300",
+          "city": "LANNION",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "043",
+        "name": "CibleR Laval",
+        "address": {
+          "streetAddress": "53000 random address",
+          "zipCode": "53000",
+          "city": "LAVAL",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "044",
+        "name": "CibleR Le Havre",
+        "address": {
+          "streetAddress": "76700 random address",
+          "zipCode": "76700",
+          "city": "GONFREVILLE L ORCHER",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "045",
+        "name": "CibleR Le Mans",
+        "address": {
+          "streetAddress": "72230 random address",
+          "zipCode": "72230",
+          "city": "MULSANNE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "046",
+        "name": "CibleR Lisieux",
+        "address": {
+          "streetAddress": "14100 random address",
+          "zipCode": "14100",
+          "city": "LISIEUX",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "047",
+        "name": "CibleR Lorient",
+        "address": {
+          "streetAddress": "56600 random address",
+          "zipCode": "56600",
+          "city": "LANESTER",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "048",
+        "name": "CibleR Montaigu",
+        "address": {
+          "streetAddress": "85600 random address",
+          "zipCode": "85600",
+          "city": "MONTAIGU",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "049",
+        "name": "CibleR Morlaix",
+        "address": {
+          "streetAddress": "29600 random address",
+          "zipCode": "29600",
+          "city": "MORLAIX",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "050",
+        "name": "CibleR Nantes",
+        "address": {
+          "streetAddress": "44800 random address",
+          "zipCode": "44800",
+          "city": "SAINT HERBLAIN",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "051",
+        "name": "CibleR Pontivy",
+        "address": {
+          "streetAddress": "56300 random address",
+          "zipCode": "56300",
+          "city": "PONTIVY",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "052",
+        "name": "CibleR Quimper",
+        "address": {
+          "streetAddress": "29000 random address",
+          "zipCode": "29000",
+          "city": "QUIMPER",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "053",
+        "name": "CibleR Redon",
+        "address": {
+          "streetAddress": "35600 random address",
+          "zipCode": "35600",
+          "city": "REDON",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "054",
+        "name": "CibleR Rennes - Chantepie",
+        "address": {
+          "streetAddress": "35135 random address",
+          "zipCode": "35135",
+          "city": "CHANTEPIE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "055",
+        "name": "CibleR Rennes Melesse",
+        "address": {
+          "streetAddress": "35520 random address",
+          "zipCode": "35520",
+          "city": "MELESSE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "056",
+        "name": "CibleR Sable sur Sarthe",
+        "address": {
+          "streetAddress": "72300 random address",
+          "zipCode": "72300",
+          "city": "SABLE SUR SARTHE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "057",
+        "name": "CibleR St Brieuc",
+        "address": {
+          "streetAddress": "22360 random address",
+          "zipCode": "22360",
+          "city": "LANGEUX",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "058",
+        "name": "CibleR St Lo",
+        "address": {
+          "streetAddress": "50000 random address",
+          "zipCode": "50000",
+          "city": "ST LO",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "059",
+        "name": "CibleR St-Malo",
+        "address": {
+          "streetAddress": "35400 random address",
+          "zipCode": "35400",
+          "city": "ST-MALO",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "060",
+        "name": "CibleR St-Nazaire",
+        "address": {
+          "streetAddress": "44600 random address",
+          "zipCode": "44600",
+          "city": "ST-NAZAIRE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "061",
+        "name": "CibleR Saumur",
+        "address": {
+          "streetAddress": "49400 random address",
+          "zipCode": "49400",
+          "city": "DISTRE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "062",
+        "name": "CibleR Vannes",
+        "address": {
+          "streetAddress": "56000 random address",
+          "zipCode": "56000",
+          "city": "VANNES",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "063",
+        "name": "CibleR Vire",
+        "address": {
+          "streetAddress": "14500 random address",
+          "zipCode": "14500",
+          "city": "VIRE NORMANDIE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "064",
+        "name": "CibleR Bressuire",
+        "address": {
+          "streetAddress": "79300 random address",
+          "zipCode": "79300",
+          "city": "BRESSUIRE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "065",
+        "name": "CibleR Brive",
+        "address": {
+          "streetAddress": "19100 random address",
+          "zipCode": "19100",
+          "city": "BRIVE LA GAILLARDE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "066",
+        "name": "CibleR Chatellerault",
+        "address": {
+          "streetAddress": "86100 random address",
+          "zipCode": "86100",
+          "city": "CHATELLERAULT",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "067",
+        "name": "CibleR Clermont Ferrand Nord",
+        "address": {
+          "streetAddress": "63100 random address",
+          "zipCode": "63100",
+          "city": "CLERMONT FERRAND",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "068",
+        "name": "CibleR Clermont Ferrand Sud",
+        "address": {
+          "streetAddress": "63170 random address",
+          "zipCode": "63170",
+          "city": "AUBIèRE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "069",
+        "name": "CibleR Cognac - Chateaubernard",
+        "address": {
+          "streetAddress": "16100 random address",
+          "zipCode": "16100",
+          "city": "COGNAC",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "070",
+        "name": "CibleR Gueret",
+        "address": {
+          "streetAddress": "23000 random address",
+          "zipCode": "23000",
+          "city": "GUERET",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "071",
+        "name": "CibleR La Rochelle",
+        "address": {
+          "streetAddress": "17138 random address",
+          "zipCode": "17138",
+          "city": "PUILBOREAU",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "072",
+        "name": "CibleR Limoges",
+        "address": {
+          "streetAddress": "87280 random address",
+          "zipCode": "87280",
+          "city": "LIMOGES",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "073",
+        "name": "CibleR Niort",
+        "address": {
+          "streetAddress": "79000 random address",
+          "zipCode": "79000",
+          "city": "NIORT",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "074",
+        "name": "CibleR Poitiers",
+        "address": {
+          "streetAddress": "86360 random address",
+          "zipCode": "86360",
+          "city": "CHASSENEUIL DU POITOU",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "075",
+        "name": "CibleR St Girons",
+        "address": {
+          "streetAddress": "09190 random address",
+          "zipCode": "09190",
+          "city": "ST LIZIER",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "076",
+        "name": "CibleR Saintes",
+        "address": {
+          "streetAddress": "17100 random address",
+          "zipCode": "17100",
+          "city": "SAINTES",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "077",
+        "name": "CibleR Tulle",
+        "address": {
+          "streetAddress": "19000 random address",
+          "zipCode": "19000",
+          "city": "TULLE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "078",
+        "name": "CibleR Agen",
+        "address": {
+          "streetAddress": "47550 random address",
+          "zipCode": "47550",
+          "city": "BOE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "079",
+        "name": "CibleR Albi",
+        "address": {
+          "streetAddress": "81120 random address",
+          "zipCode": "81120",
+          "city": "PUYGOUZON",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "080",
+        "name": "CibleR Bayonne",
+        "address": {
+          "streetAddress": "64100 random address",
+          "zipCode": "64100",
+          "city": "BAYONNE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "081",
+        "name": "CibleR Bergerac",
+        "address": {
+          "streetAddress": "24100 random address",
+          "zipCode": "24100",
+          "city": "BERGERAC",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "082",
+        "name": "CibleR Bordeaux - Artigues",
+        "address": {
+          "streetAddress": "33370 random address",
+          "zipCode": "33370",
+          "city": "ARTIGUES",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "083",
+        "name": "CibleR Bordeaux - Cadaujac",
+        "address": {
+          "streetAddress": "33140 random address",
+          "zipCode": "33140",
+          "city": "CADAUJAC",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "084",
+        "name": "CibleR Bordeaux - Merignac",
+        "address": {
+          "streetAddress": "33700 random address",
+          "zipCode": "33700",
+          "city": "MERIGNAC",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "085",
+        "name": "CibleR Cahors",
+        "address": {
+          "streetAddress": "46000 random address",
+          "zipCode": "46000",
+          "city": "CAHORS",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "086",
+        "name": "CibleR Carcassonne",
+        "address": {
+          "streetAddress": "11000 random address",
+          "zipCode": "11000",
+          "city": "CARCASSONNE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "088",
+        "name": "CibleR Dax",
+        "address": {
+          "streetAddress": "40990 random address",
+          "zipCode": "40990",
+          "city": "ST PAUL LES DAX",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "089",
+        "name": "CibleR Figeac",
+        "address": {
+          "streetAddress": "46100 random address",
+          "zipCode": "46100",
+          "city": "FIGEAC",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "090",
+        "name": "CibleR Foix",
+        "address": {
+          "streetAddress": "09000 random address",
+          "zipCode": "09000",
+          "city": "FOIX",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "091",
+        "name": "CibleR La Reole",
+        "address": {
+          "streetAddress": "33190 random address",
+          "zipCode": "33190",
+          "city": "GIRONDE SUR DROPT",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "093",
+        "name": "CibleR Libourne",
+        "address": {
+          "streetAddress": "33500 random address",
+          "zipCode": "33500",
+          "city": "ARVEYRES",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "094",
+        "name": "CibleR Mont-de-Marsan",
+        "address": {
+          "streetAddress": "40000 random address",
+          "zipCode": "40000",
+          "city": "MONT-DE-MARSAN",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "095",
+        "name": "CibleR Pamiers",
+        "address": {
+          "streetAddress": "09100 random address",
+          "zipCode": "09100",
+          "city": "PAMIERS",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "096",
+        "name": "CibleR Périgueux",
+        "address": {
+          "streetAddress": "24750 random address",
+          "zipCode": "24750",
+          "city": "TRELISSAC",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "097",
+        "name": "CibleR Tarbes",
+        "address": {
+          "streetAddress": "65420 random address",
+          "zipCode": "65420",
+          "city": "IBOS",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "098",
+        "name": "CibleR Toulouse - Labege",
+        "address": {
+          "streetAddress": "31670 random address",
+          "zipCode": "31670",
+          "city": "LABèGE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "099",
+        "name": "CibleR Toulouse nord",
+        "address": {
+          "streetAddress": "31140 random address",
+          "zipCode": "31140",
+          "city": "AUCAMVILLE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "101",
+        "name": "CibleR Villefranche de Rouergue",
+        "address": {
+          "streetAddress": "12200 random address",
+          "zipCode": "12200",
+          "city": "VILLEFRANCHE DE ROUERGUE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "102",
+        "name": "CibleR Villeneuve sur Lot",
+        "address": {
+          "streetAddress": "47300 random address",
+          "zipCode": "47300",
+          "city": "BIAS",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "103",
+        "name": "CibleR Blois Vineuil",
+        "address": {
+          "streetAddress": "41350 random address",
+          "zipCode": "41350",
+          "city": "VINEUIL",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "104",
+        "name": "CibleR Bourges",
+        "address": {
+          "streetAddress": "18000 random address",
+          "zipCode": "18000",
+          "city": "BOURGES",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "105",
+        "name": "CibleR Chalon sur Saone",
+        "address": {
+          "streetAddress": "71100 random address",
+          "zipCode": "71100",
+          "city": "CHALON SUR SAONE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "106",
+        "name": "CibleR Chartres",
+        "address": {
+          "streetAddress": "28000 random address",
+          "zipCode": "28000",
+          "city": "CHARTRES",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "107",
+        "name": "CibleR Chateaudun",
+        "address": {
+          "streetAddress": "28200 random address",
+          "zipCode": "28200",
+          "city": "CHATEAUDUN",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "108",
+        "name": "CibleR Chateauroux",
+        "address": {
+          "streetAddress": "36250 random address",
+          "zipCode": "36250",
+          "city": "ST MAUR",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "109",
+        "name": "CibleR Cosne sur Loire",
+        "address": {
+          "streetAddress": "58200 random address",
+          "zipCode": "58200",
+          "city": "COSNE SUR LOIRE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "110",
+        "name": "CibleR Digoin",
+        "address": {
+          "streetAddress": "71160 random address",
+          "zipCode": "71160",
+          "city": "DIGOIN",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "111",
+        "name": "CibleR Dreux",
+        "address": {
+          "streetAddress": "28100 random address",
+          "zipCode": "28100",
+          "city": "DREUX",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "112",
+        "name": "CibleR Macon",
+        "address": {
+          "streetAddress": "71680 random address",
+          "zipCode": "71680",
+          "city": "CRêCHES SUR SAONE CEDEX",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "113",
+        "name": "CibleR Montargis",
+        "address": {
+          "streetAddress": "45200 random address",
+          "zipCode": "45200",
+          "city": "AMILLY",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "114",
+        "name": "CibleR Montceau les mines",
+        "address": {
+          "streetAddress": "71300 random address",
+          "zipCode": "71300",
+          "city": "MONTCEAU LES MINES",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "115",
+        "name": "CibleR Nevers",
+        "address": {
+          "streetAddress": "58640 random address",
+          "zipCode": "58640",
+          "city": "VARENNES - VAUZELLES",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "116",
+        "name": "CibleR Nogent le Rotrou",
+        "address": {
+          "streetAddress": "28400 random address",
+          "zipCode": "28400",
+          "city": "NOGENT LE ROTROU",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "117",
+        "name": "CibleR Orléans",
+        "address": {
+          "streetAddress": "45160 random address",
+          "zipCode": "45160",
+          "city": "OLIVET",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "118",
+        "name": "CibleR Pithiviers",
+        "address": {
+          "streetAddress": "45300 random address",
+          "zipCode": "45300",
+          "city": "PITHIVIERS",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "119",
+        "name": "CibleR Romorantin",
+        "address": {
+          "streetAddress": "41200 random address",
+          "zipCode": "41200",
+          "city": "ROMORANTIN LANTHENAY",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "120",
+        "name": "CibleR Sens",
+        "address": {
+          "streetAddress": "89100 random address",
+          "zipCode": "89100",
+          "city": "ST CLéMENT",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "121",
+        "name": "CibleR Tours",
+        "address": {
+          "streetAddress": "37170 random address",
+          "zipCode": "37170",
+          "city": "CHAMBRAY LES TOURS",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "122",
+        "name": "CibleR Vendome",
+        "address": {
+          "streetAddress": "41100 random address",
+          "zipCode": "41100",
+          "city": "VILLERABLE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "123",
+        "name": "CibleR Vierzon",
+        "address": {
+          "streetAddress": "18100 random address",
+          "zipCode": "18100",
+          "city": "VIERZON",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "124",
+        "name": "CibleR Albertville",
+        "address": {
+          "streetAddress": "73200 random address",
+          "zipCode": "73200",
+          "city": "ALBERTVILLE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "125",
+        "name": "CibleR Amberieu",
+        "address": {
+          "streetAddress": "01500 random address",
+          "zipCode": "01500",
+          "city": "AMBERIEU EN BUGEY",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "126",
+        "name": "CibleR Annecy-Sillingy",
+        "address": {
+          "streetAddress": "74330 random address",
+          "zipCode": "74330",
+          "city": "SILLINGY",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "127",
+        "name": "CibleR Annemasse",
+        "address": {
+          "streetAddress": "74100 random address",
+          "zipCode": "74100",
+          "city": "VILLE LA GRAND",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "128",
+        "name": "CibleR Salaise",
+        "address": {
+          "streetAddress": "38150 random address",
+          "zipCode": "38150",
+          "city": "SALAISE SUR SANNE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "129",
+        "name": "CibleR Aubenas",
+        "address": {
+          "streetAddress": "07200 random address",
+          "zipCode": "07200",
+          "city": "LACHAPELLE SOUS AUBENAS",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "130",
+        "name": "CibleR Aurillac",
+        "address": {
+          "streetAddress": "15000 random address",
+          "zipCode": "15000",
+          "city": "AURILLAC",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "131",
+        "name": "CibleR Bourg en Bresse",
+        "address": {
+          "streetAddress": "01000 random address",
+          "zipCode": "01000",
+          "city": "BOURG EN BRESSE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "132",
+        "name": "CibleR Bourgoin",
+        "address": {
+          "streetAddress": "38300 random address",
+          "zipCode": "38300",
+          "city": "DOMARIN",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "133",
+        "name": "CibleR Brioude",
+        "address": {
+          "streetAddress": "43100 random address",
+          "zipCode": "43100",
+          "city": "BRIOUDE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "134",
+        "name": "CibleR Chambery",
+        "address": {
+          "streetAddress": "73230 random address",
+          "zipCode": "73230",
+          "city": "ST ALBAN LEYSSE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "135",
+        "name": "CibleR Cluses",
+        "address": {
+          "streetAddress": "74300 random address",
+          "zipCode": "74300",
+          "city": "CLUSES",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "136",
+        "name": "CibleR Givors",
+        "address": {
+          "streetAddress": "69700 random address",
+          "zipCode": "69700",
+          "city": "GIVORS",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "137",
+        "name": "CibleR Grenoble Fontaine",
+        "address": {
+          "streetAddress": "38600 random address",
+          "zipCode": "38600",
+          "city": "FONTAINE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "138",
+        "name": "CibleR Grenoble Eybens",
+        "address": {
+          "streetAddress": "38320 random address",
+          "zipCode": "38320",
+          "city": "EYBENS",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "139",
+        "name": "CibleR Le Puy",
+        "address": {
+          "streetAddress": "43000 random address",
+          "zipCode": "43000",
+          "city": "LE PUY-EN-VELAY",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "140",
+        "name": "CibleR Lyon",
+        "address": {
+          "streetAddress": "69800 random address",
+          "zipCode": "69800",
+          "city": "ST PRIEST",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "141",
+        "name": "CibleR Montelimar",
+        "address": {
+          "streetAddress": "26200 random address",
+          "zipCode": "26200",
+          "city": "MONTELIMAR",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "142",
+        "name": "CibleR Montlucon",
+        "address": {
+          "streetAddress": "03100 random address",
+          "zipCode": "03100",
+          "city": "MONTLUCON",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "143",
+        "name": "CibleR Moulins",
+        "address": {
+          "streetAddress": "03400 random address",
+          "zipCode": "03400",
+          "city": "TOULON SUR ALLIER",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "144",
+        "name": "CibleR Roanne",
+        "address": {
+          "streetAddress": "42120 random address",
+          "zipCode": "42120",
+          "city": "LE COTEAU",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "145",
+        "name": "CibleR Romans",
+        "address": {
+          "streetAddress": "26750 random address",
+          "zipCode": "26750",
+          "city": "ST PAUL LES ROMANS",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "146",
+        "name": "CibleR St Etienne",
+        "address": {
+          "streetAddress": "42480 random address",
+          "zipCode": "42480",
+          "city": "LA FOUILLOUSE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "147",
+        "name": "CibleR St Flour",
+        "address": {
+          "streetAddress": "15100 random address",
+          "zipCode": "15100",
+          "city": "ST FLOUR",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "148",
+        "name": "CibleR St Genis",
+        "address": {
+          "streetAddress": "01630 random address",
+          "zipCode": "01630",
+          "city": "ST GENIS POUILLY",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "149",
+        "name": "CibleR Thonon-Les-Bains",
+        "address": {
+          "streetAddress": "74200 random address",
+          "zipCode": "74200",
+          "city": "ANTHY SUR LéMAN",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "150",
+        "name": "CibleR Valence",
+        "address": {
+          "streetAddress": "26800 random address",
+          "zipCode": "26800",
+          "city": "PORTE LES VALENCE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "152",
+        "name": "CibleR Voiron",
+        "address": {
+          "streetAddress": "38500 random address",
+          "zipCode": "38500",
+          "city": "VOIRON",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "153",
+        "name": "CibleR Besancon",
+        "address": {
+          "streetAddress": "25000 random address",
+          "zipCode": "25000",
+          "city": "BESANçON",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "154",
+        "name": "CibleR Chalons en Champagne",
+        "address": {
+          "streetAddress": "51470 random address",
+          "zipCode": "51470",
+          "city": "ST MEMMIE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "155",
+        "name": "CibleR Charleville Mezières",
+        "address": {
+          "streetAddress": "08000 random address",
+          "zipCode": "08000",
+          "city": "VILLERS SEMEUSE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "156",
+        "name": "CibleR Chaumont",
+        "address": {
+          "streetAddress": "52000 random address",
+          "zipCode": "52000",
+          "city": "CHAUMONT",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "157",
+        "name": "CibleR Colmar (old)",
+        "address": {
+          "streetAddress": "68000 random address",
+          "zipCode": "68000",
+          "city": "COLMAR",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "158",
+        "name": "CibleR Dole",
+        "address": {
+          "streetAddress": "39100 random address",
+          "zipCode": "39100",
+          "city": "CHOISEY",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "159",
+        "name": "CibleR Epernay",
+        "address": {
+          "streetAddress": "51530 random address",
+          "zipCode": "51530",
+          "city": "DIZY",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "160",
+        "name": "CibleR Epinal",
+        "address": {
+          "streetAddress": "88000 random address",
+          "zipCode": "88000",
+          "city": "EPINAL",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "161",
+        "name": "CibleR Forbach",
+        "address": {
+          "streetAddress": "57600 random address",
+          "zipCode": "57600",
+          "city": "FORBACH",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "162",
+        "name": "CibleR Gray",
+        "address": {
+          "streetAddress": "70100 random address",
+          "zipCode": "70100",
+          "city": "GRAY",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "163",
+        "name": "CibleR Haguenau",
+        "address": {
+          "streetAddress": "67590 random address",
+          "zipCode": "67590",
+          "city": "SCHWEIGHOUSE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "164",
+        "name": "CibleR Langres",
+        "address": {
+          "streetAddress": "52200 random address",
+          "zipCode": "52200",
+          "city": "LANGRES",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "165",
+        "name": "CibleR Longwy",
+        "address": {
+          "streetAddress": "54720 random address",
+          "zipCode": "54720",
+          "city": "LEXY",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "166",
+        "name": "CibleR Lons le Saunier",
+        "address": {
+          "streetAddress": "39570 random address",
+          "zipCode": "39570",
+          "city": "MONTMOROT",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "167",
+        "name": "CibleR Luneville",
+        "address": {
+          "streetAddress": "54300 random address",
+          "zipCode": "54300",
+          "city": "LUNEVILLE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "168",
+        "name": "CibleR Metz",
+        "address": {
+          "streetAddress": "57130 random address",
+          "zipCode": "57130",
+          "city": "JOUY AUX ARCHES",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "169",
+        "name": "CibleR Belfort",
+        "address": {
+          "streetAddress": "90400 random address",
+          "zipCode": "90400",
+          "city": "SEVENANS",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "170",
+        "name": "CibleR Mulhouse",
+        "address": {
+          "streetAddress": "68260 random address",
+          "zipCode": "68260",
+          "city": "KINGERSHEIM",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "171",
+        "name": "CibleR Nancy (old)",
+        "address": {
+          "streetAddress": "54710 random address",
+          "zipCode": "54710",
+          "city": "FLéVILLE-DEVANT-NANCY",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "172",
+        "name": "CibleR Pontarlier",
+        "address": {
+          "streetAddress": "25300 random address",
+          "zipCode": "25300",
+          "city": "PONTARLIER",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "173",
+        "name": "CibleR Reims",
+        "address": {
+          "streetAddress": "51350 random address",
+          "zipCode": "51350",
+          "city": "CORMONTREUIL",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "174",
+        "name": "CibleR Remiremont",
+        "address": {
+          "streetAddress": "88200 random address",
+          "zipCode": "88200",
+          "city": "DOMMARTIN LES REMIREMONT",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "175",
+        "name": "CibleR Romilly",
+        "address": {
+          "streetAddress": "10510 random address",
+          "zipCode": "10510",
+          "city": "MAIZIèRES LA GRANDE PAROISSE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "176",
+        "name": "CibleR St Die",
+        "address": {
+          "streetAddress": "88100 random address",
+          "zipCode": "88100",
+          "city": "SAINT DIE DES VOSGES",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "177",
+        "name": "CibleR St Dizier",
+        "address": {
+          "streetAddress": "52100 random address",
+          "zipCode": "52100",
+          "city": "ST DIZIER",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "178",
+        "name": "CibleR Sarrebourg",
+        "address": {
+          "streetAddress": "57400 random address",
+          "zipCode": "57400",
+          "city": "IMLING",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "179",
+        "name": "CibleR Sarreguemines",
+        "address": {
+          "streetAddress": "57200 random address",
+          "zipCode": "57200",
+          "city": "SARREGUEMINES",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "180",
+        "name": "CibleR Selestat",
+        "address": {
+          "streetAddress": "67600 random address",
+          "zipCode": "67600",
+          "city": "SELESTAT",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "181",
+        "name": "CibleR Strasbourg nord",
+        "address": {
+          "streetAddress": "67550 random address",
+          "zipCode": "67550",
+          "city": "VENDENHEIM",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "182",
+        "name": "CibleR Strasbourg sud",
+        "address": {
+          "streetAddress": "67640 random address",
+          "zipCode": "67640",
+          "city": "FEGERSHEIM",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "183",
+        "name": "CibleR St Avold",
+        "address": {
+          "streetAddress": "57500 random address",
+          "zipCode": "57500",
+          "city": "ST AVOLD",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "184",
+        "name": "CibleR Thionville",
+        "address": {
+          "streetAddress": "57180 random address",
+          "zipCode": "57180",
+          "city": "TERVILLE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "185",
+        "name": "CibleR Troyes",
+        "address": {
+          "streetAddress": "10410 random address",
+          "zipCode": "10410",
+          "city": "ST PARRES AUX TERTRES",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "186",
+        "name": "CibleR Verdun",
+        "address": {
+          "streetAddress": "55100 random address",
+          "zipCode": "55100",
+          "city": "VERDUN",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "187",
+        "name": "CibleR Vesoul",
+        "address": {
+          "streetAddress": "70000 random address",
+          "zipCode": "70000",
+          "city": "VESOUL",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "188",
+        "name": "CibleR Aulnay sous bois",
+        "address": {
+          "streetAddress": "93600 random address",
+          "zipCode": "93600",
+          "city": "AULNAY SOUS BOIS",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "189",
+        "name": "CibleR Bobigny",
+        "address": {
+          "streetAddress": "93000 random address",
+          "zipCode": "93000",
+          "city": "BOBIGNY",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "190",
+        "name": "CibleR Chelles",
+        "address": {
+          "streetAddress": "77500 random address",
+          "zipCode": "77500",
+          "city": "CHELLES",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "192",
+        "name": "CibleR Fresnes",
+        "address": {
+          "streetAddress": "94260 random address",
+          "zipCode": "94260",
+          "city": "FRESNES",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "194",
+        "name": "CibleR La Queue en Brie",
+        "address": {
+          "streetAddress": "94510 random address",
+          "zipCode": "94510",
+          "city": "LA QUEUE EN BRIE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "195",
+        "name": "CibleR Mantes la jolie - Buchelay",
+        "address": {
+          "streetAddress": "78200 random address",
+          "zipCode": "78200",
+          "city": "BUCHELAY",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "196",
+        "name": "CibleR Meaux",
+        "address": {
+          "streetAddress": "77100 random address",
+          "zipCode": "77100",
+          "city": "MEAUX",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "197",
+        "name": "CibleR Melun-Quincy",
+        "address": {
+          "streetAddress": "91480 random address",
+          "zipCode": "91480",
+          "city": "QUINCY SOUS SENART",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "199",
+        "name": "CibleR Nemours",
+        "address": {
+          "streetAddress": "77140 random address",
+          "zipCode": "77140",
+          "city": "NEMOURS",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "200",
+        "name": "CibleR Persan - Beaumont",
+        "address": {
+          "streetAddress": "60530 random address",
+          "zipCode": "60530",
+          "city": "LE MESNIL EN THELLE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "201",
+        "name": "CibleR Pontoise",
+        "address": {
+          "streetAddress": "95520 random address",
+          "zipCode": "95520",
+          "city": "OSNY",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "202",
+        "name": "CibleR Provins",
+        "address": {
+          "streetAddress": "77160 random address",
+          "zipCode": "77160",
+          "city": "PROVINS",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "203",
+        "name": "CibleR Ste Genevieve des bois",
+        "address": {
+          "streetAddress": "91700 random address",
+          "zipCode": "91700",
+          "city": "STE GENEVIEVE DES BOIS",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "205",
+        "name": "CibleR Agde",
+        "address": {
+          "streetAddress": "34300 random address",
+          "zipCode": "34300",
+          "city": "AGDE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "206",
+        "name": "CibleR Ajaccio",
+        "address": {
+          "streetAddress": "20000 random address",
+          "zipCode": "20000",
+          "city": "AJACCIO",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "207",
+        "name": "CibleR Ales",
+        "address": {
+          "streetAddress": "30560 random address",
+          "zipCode": "30560",
+          "city": "ST HILAIRE DE BRETHMAS",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "208",
+        "name": "CibleR Villeneuve Loubet",
+        "address": {
+          "streetAddress": "06270 random address",
+          "zipCode": "06270",
+          "city": "VILLENEUVE LOUBET",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "209",
+        "name": "CibleR Arles",
+        "address": {
+          "streetAddress": "13200 random address",
+          "zipCode": "13200",
+          "city": "ARLES",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "210",
+        "name": "CibleR Avignon",
+        "address": {
+          "streetAddress": "84700 random address",
+          "zipCode": "84700",
+          "city": "SORGUES",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "211",
+        "name": "CibleR Bagnols sur Ceze",
+        "address": {
+          "streetAddress": "30200 random address",
+          "zipCode": "30200",
+          "city": "BAGNOLS SUR CEZE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "212",
+        "name": "CibleR Bastia",
+        "address": {
+          "streetAddress": "20600 random address",
+          "zipCode": "20600",
+          "city": "BASTIA",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "213",
+        "name": "CibleR Beziers",
+        "address": {
+          "streetAddress": "34500 random address",
+          "zipCode": "34500",
+          "city": "BEZIERS",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "214",
+        "name": "CibleR Cannes",
+        "address": {
+          "streetAddress": "06150 random address",
+          "zipCode": "06150",
+          "city": "LA BOCCA",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "215",
+        "name": "CibleR Digne",
+        "address": {
+          "streetAddress": "04000 random address",
+          "zipCode": "04000",
+          "city": "DIGNE LES BAINS",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "216",
+        "name": "CibleR Fréjus",
+        "address": {
+          "streetAddress": "83480 random address",
+          "zipCode": "83480",
+          "city": "PUGET SUR ARGENS",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "217",
+        "name": "CibleR Gap",
+        "address": {
+          "streetAddress": "05000 random address",
+          "zipCode": "05000",
+          "city": "GAP",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "218",
+        "name": "CibleR Marseille Aubagne",
+        "address": {
+          "streetAddress": "13400 random address",
+          "zipCode": "13400",
+          "city": "AUBAGNE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "219",
+        "name": "CibleR Marseille Cabries",
+        "address": {
+          "streetAddress": "13480 random address",
+          "zipCode": "13480",
+          "city": "CABRIES",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "220",
+        "name": "CibleR Mende",
+        "address": {
+          "streetAddress": "48000 random address",
+          "zipCode": "48000",
+          "city": "MENDE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "221",
+        "name": "CibleR Menton",
+        "address": {
+          "streetAddress": "06500 random address",
+          "zipCode": "06500",
+          "city": "MENTON",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "222",
+        "name": "CibleR Millau",
+        "address": {
+          "streetAddress": "12100 random address",
+          "zipCode": "12100",
+          "city": "MILLAU",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "223",
+        "name": "CibleR Montpellier",
+        "address": {
+          "streetAddress": "34970 random address",
+          "zipCode": "34970",
+          "city": "LATTES",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "224",
+        "name": "CibleR Narbonne",
+        "address": {
+          "streetAddress": "11100 random address",
+          "zipCode": "11100",
+          "city": "NARBONNE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "226",
+        "name": "CibleR Perpignan Nord",
+        "address": {
+          "streetAddress": "66000 random address",
+          "zipCode": "66000",
+          "city": "PERPIGNAN",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "227",
+        "name": "CibleR Perpignan sud",
+        "address": {
+          "streetAddress": "66000 random address",
+          "zipCode": "66000",
+          "city": "PERPIGNAN",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "228",
+        "name": "CibleR Sète",
+        "address": {
+          "streetAddress": "34110 random address",
+          "zipCode": "34110",
+          "city": "FRONTIGNAN",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "236",
+        "name": "CibleR Toulon",
+        "address": {
+          "streetAddress": "83210 random address",
+          "zipCode": "83210",
+          "city": "SOLLIES-PONT",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "256",
+        "name": "CibleR Dijon",
+        "address": {
+          "streetAddress": "21160 random address",
+          "zipCode": "21160",
+          "city": "MARSANNAY-LA-CôTE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "257",
+        "name": "CibleR St Jean de Maurienne",
+        "address": {
+          "streetAddress": "73300 random address",
+          "zipCode": "73300",
+          "city": "ST JEAN DE MAURIENNE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "258",
+        "name": "CibleR Pau",
+        "address": {
+          "streetAddress": "64230 random address",
+          "zipCode": "64230",
+          "city": "LESCAR",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "259",
+        "name": "CibleR Villefranche sur Saône",
+        "address": {
+          "streetAddress": "69400 random address",
+          "zipCode": "69400",
+          "city": "VILLEFRANCHE SUR SAôNE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "260",
+        "name": "CibleR Rochefort",
+        "address": {
+          "streetAddress": "17300 random address",
+          "zipCode": "17300",
+          "city": "ROCHEFORT",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "261",
+        "name": "CibleR Montauban",
+        "address": {
+          "streetAddress": "82000 random address",
+          "zipCode": "82000",
+          "city": "MONTAUBAN",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "262",
+        "name": "CibleR Creil",
+        "address": {
+          "streetAddress": "60740 random address",
+          "zipCode": "60740",
+          "city": "SAINT-MAXIMIN",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "263",
+        "name": "CibleR Maubeuge - Hautmont",
+        "address": {
+          "streetAddress": "59330 random address",
+          "zipCode": "59330",
+          "city": "HAUMONT",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "264",
+        "name": "CibleR Toulouse Portet",
+        "address": {
+          "streetAddress": "31100 random address",
+          "zipCode": "31100",
+          "city": "TOULOUSE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "265",
+        "name": "CibleR Nîmes",
+        "address": {
+          "streetAddress": "30900 random address",
+          "zipCode": "30900",
+          "city": "NîMES",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "266",
+        "name": "CibleR Nanterre",
+        "address": {
+          "streetAddress": "92000 random address",
+          "zipCode": "92000",
+          "city": "NANTERRE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "267",
+        "name": "CibleR Castres",
+        "address": {
+          "streetAddress": "81100 random address",
+          "zipCode": "81100",
+          "city": "CASTRES",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "268",
+        "name": "CibleR Clayes ss Bois PLAISIR",
+        "address": {
+          "streetAddress": "78340 random address",
+          "zipCode": "78340",
+          "city": "LES CLAYES SOUS BOIS",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "269",
+        "name": "CibleR St Gaudens",
+        "address": {
+          "streetAddress": "31800 random address",
+          "zipCode": "31800",
+          "city": "LANDORTHE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "270",
+        "name": "CibleR Laon",
+        "address": {
+          "streetAddress": "02000 random address",
+          "zipCode": "02000",
+          "city": "CHAMBRY",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "271",
+        "name": "CibleR Voglans",
+        "address": {
+          "streetAddress": "73420 random address",
+          "zipCode": "73420",
+          "city": "VOGLANS",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "272",
+        "name": "CibleR Biganos",
+        "address": {
+          "streetAddress": "33380 random address",
+          "zipCode": "33380",
+          "city": "BIGANOS",
+          "country": "France"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "273",
+        "name": "CibleR Auxerre",
+        "address": {
+          "streetAddress": "89000 random address",
+          "zipCode": "89000",
+          "city": "AUXERRE",
+          "country": "FR"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "274",
+        "name": "CibleR Rosny-sous-Bois (DOMUS)",
+        "address": {
+          "streetAddress": "93110 random address",
+          "zipCode": "93110",
+          "city": "ROSNY SOUS BOIS",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "275",
+        "name": "CibleR Rodez",
+        "address": {
+          "streetAddress": "12850 random address",
+          "zipCode": "12850",
+          "city": "ONET LE CHATEAU",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "276",
+        "name": "CibleR Paris Wagram",
+        "address": {
+          "streetAddress": "75017 random address",
+          "zipCode": "75017",
+          "city": "PARIS",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "277",
+        "name": "CibleR Abbeville",
+        "address": {
+          "streetAddress": "80132 random address",
+          "zipCode": "80132",
+          "city": "VAUCHELLES LES QUESNOY",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "278",
+        "name": "CibleR Toul",
+        "address": {
+          "streetAddress": "54200 random address",
+          "zipCode": "54200",
+          "city": "DOMMARTIN LES TOUL",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "279",
+        "name": "CibleR Neufchateau",
+        "address": {
+          "streetAddress": "88300 random address",
+          "zipCode": "88300",
+          "city": "NEUFCHATEAU",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "280",
+        "name": "CibleR Marmoutier",
+        "address": {
+          "streetAddress": "67440 random address",
+          "zipCode": "67440",
+          "city": "MARMOUTIER",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "281",
+        "name": "CibleR Vesoul",
+        "address": {
+          "streetAddress": "70000 random address",
+          "zipCode": "70000",
+          "city": "VESOUL",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "282",
+        "name": "CibleR Seclin",
+        "address": {
+          "streetAddress": "59113 random address",
+          "zipCode": "59113",
+          "city": "SECLIN",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "283",
+        "name": "CibleR Peronne",
+        "address": {
+          "streetAddress": "80200 random address",
+          "zipCode": "80200",
+          "city": "PERONNE",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "284",
+        "name": "CibleR Bollene",
+        "address": {
+          "streetAddress": "84500 random address",
+          "zipCode": "84500",
+          "city": "BOLLENE",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "285",
+        "name": "CibleR Noyon",
+        "address": {
+          "streetAddress": "60400 random address",
+          "zipCode": "60400",
+          "city": "NOYON",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "286",
+        "name": "CibleR Juvignac",
+        "address": {
+          "streetAddress": "34990 random address",
+          "zipCode": "34990",
+          "city": "JUVIGNAC",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "287",
+        "name": "CibleR Bayeux",
+        "address": {
+          "streetAddress": "14400 random address",
+          "zipCode": "14400",
+          "city": "ST VIGOR LE GRAND",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "288",
+        "name": "CibleR Marmande",
+        "address": {
+          "streetAddress": "47200 random address",
+          "zipCode": "47200",
+          "city": "MARMANDE",
+          "country": "France"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "289",
+        "name": "CibleR Bar le Duc",
+        "address": {
+          "streetAddress": "55000 random address",
+          "zipCode": "55000",
+          "city": "BAR LE DUC",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "290",
+        "name": "CibleR Joigny",
+        "address": {
+          "streetAddress": "89300 random address",
+          "zipCode": "89300",
+          "city": "JOIGNY",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "291",
+        "name": "CibleR Bourguignon",
+        "address": {
+          "streetAddress": "25150 random address",
+          "zipCode": "25150",
+          "city": "BOURGUIGNON",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "292",
+        "name": "CibleR Champagnole",
+        "address": {
+          "streetAddress": "39300 random address",
+          "zipCode": "39300",
+          "city": "CHAMPAGNOLE",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "293",
+        "name": "CibleR Mayenne",
+        "address": {
+          "streetAddress": "53100 random address",
+          "zipCode": "53100",
+          "city": "MAYENNE",
+          "country": "France"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "294",
+        "name": "CibleR Coutance",
+        "address": {
+          "streetAddress": "50200 random address",
+          "zipCode": "50200",
+          "city": "COUTANCES",
+          "country": "France"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "295",
+        "name": "CibleR Argentan",
+        "address": {
+          "streetAddress": "61200 random address",
+          "zipCode": "61200",
+          "city": "ARGENTAN",
+          "country": "France"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "296",
+        "name": "CibleR Dives sur Mer",
+        "address": {
+          "streetAddress": "14160 random address",
+          "zipCode": "14160",
+          "city": "PERIERS EN AUGE",
+          "country": "France"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "297",
+        "name": "CibleR Avranches",
+        "address": {
+          "streetAddress": "50300 random address",
+          "zipCode": "50300",
+          "city": "ST SENIER SOUS AVRANCHES",
+          "country": "France"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "298",
+        "name": "CibleR Beaune",
+        "address": {
+          "streetAddress": "21200 random address",
+          "zipCode": "21200",
+          "city": "BEAUNE",
+          "country": "France"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "299",
+        "name": "CibleR Bernay",
+        "address": {
+          "streetAddress": "27300 random address",
+          "zipCode": "27300",
+          "city": "BERNAY",
+          "country": "France"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "300",
+        "name": "CibleR Saint Cyr sur Loire",
+        "address": {
+          "streetAddress": "37540 random address",
+          "zipCode": "37540",
+          "city": "SAINT CYR SUR LOIRE",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "301",
+        "name": "CibleR Yvetot",
+        "address": {
+          "streetAddress": "76190 random address",
+          "zipCode": "76190",
+          "city": "SAINTE-MARIE DES CHAMPS",
+          "country": "France"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "302",
+        "name": "CibleR Château d'Olonne",
+        "address": {
+          "streetAddress": "85180 random address",
+          "zipCode": "85180",
+          "city": "CHATEAU D'OLONNE",
+          "country": "France"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "303",
+        "name": "CibleR Pont Audemer",
+        "address": {
+          "streetAddress": "27500 random address",
+          "zipCode": "27500",
+          "city": "PONT AUDEMER",
+          "country": "France"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "304",
+        "name": "CibleR Quimperle",
+        "address": {
+          "streetAddress": "29300 random address",
+          "zipCode": "29300",
+          "city": "MELLAC",
+          "country": "France"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "305",
+        "name": "CibleR Paris Sébastopol",
+        "address": {
+          "streetAddress": "75003 random address",
+          "zipCode": "75003",
+          "city": "PARIS",
+          "country": "France"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "306",
+        "name": "CibleR Thouars",
+        "address": {
+          "streetAddress": "79100 random address",
+          "zipCode": "79100",
+          "city": "THOUARS",
+          "country": "France"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "308",
+        "name": "CibleR Château Gontier",
+        "address": {
+          "streetAddress": "53200 random address",
+          "zipCode": "53200",
+          "city": "SAINT FORT",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "309",
+        "name": "CibleR Gisors",
+        "address": {
+          "streetAddress": "27140 random address",
+          "zipCode": "27140",
+          "city": "GISORS",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "310",
+        "name": "CibleR Hazebrouck",
+        "address": {
+          "streetAddress": "59190 random address",
+          "zipCode": "59190",
+          "city": "HAZEBROUCK",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "311",
+        "name": "CibleR Sable",
+        "address": {
+          "streetAddress": "72300 random address",
+          "zipCode": "72300",
+          "city": "SABLE SUR SARTHE",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "312",
+        "name": "CibleR Ancenis",
+        "address": {
+          "streetAddress": "44150 random address",
+          "zipCode": "44150",
+          "city": "ST GEREON",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "313",
+        "name": "CibleR Castelsarrasin",
+        "address": {
+          "streetAddress": "82100 random address",
+          "zipCode": "82100",
+          "city": "CASTELSARRASIN",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "314",
+        "name": "CibleR Clermont l'Hérault",
+        "address": {
+          "streetAddress": "34800 random address",
+          "zipCode": "34800",
+          "city": "CLERMONT L'HERAULT",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "315",
+        "name": "CibleR Issoudun",
+        "address": {
+          "streetAddress": "36100 random address",
+          "zipCode": "36100",
+          "city": "ISSOUDUN",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "316",
+        "name": "CibleR Clisson",
+        "address": {
+          "streetAddress": "44190 random address",
+          "zipCode": "44190",
+          "city": "CLISSON",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "317",
+        "name": "CibleR Eu",
+        "address": {
+          "streetAddress": "76260 random address",
+          "zipCode": "76260",
+          "city": "EU",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "318",
+        "name": "CibleR Hesdin Marconne",
+        "address": {
+          "streetAddress": "62140 random address",
+          "zipCode": "62140",
+          "city": "MARCONNE",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "319",
+        "name": "CibleR Saint Junien",
+        "address": {
+          "streetAddress": "87200 random address",
+          "zipCode": "87200",
+          "city": "SAINT JUNIEN",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "322",
+        "name": "CibleR Gien",
+        "address": {
+          "streetAddress": "45500 random address",
+          "zipCode": "45500",
+          "city": "GIEN",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "323",
+        "name": "CibleR Ruffec",
+        "address": {
+          "streetAddress": "16700 random address",
+          "zipCode": "16700",
+          "city": "RUFFEC",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "324",
+        "name": "CibleR Amboise",
+        "address": {
+          "streetAddress": "37530 random address",
+          "zipCode": "37530",
+          "city": "POCE SUR CISSE",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "325",
+        "name": "CibleR Saint Jean d'Angely",
+        "address": {
+          "streetAddress": "17400 random address",
+          "zipCode": "17400",
+          "city": "SAINT JEAN D'ANGELY",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "326",
+        "name": "CibleR La Flèche",
+        "address": {
+          "streetAddress": "72200 random address",
+          "zipCode": "72200",
+          "city": "LA FLECHE",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "327",
+        "name": "CibleR Loudeac",
+        "address": {
+          "streetAddress": "22600 random address",
+          "zipCode": "22600",
+          "city": "LOUDEAC",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "328",
+        "name": "CibleR Saint Amand",
+        "address": {
+          "streetAddress": "18200 random address",
+          "zipCode": "18200",
+          "city": "SAINT AMAND MONTROND",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "329",
+        "name": "CibleR Beaufort",
+        "address": {
+          "streetAddress": "49250 random address",
+          "zipCode": "49250",
+          "city": "BEAUFORT EN ANJOU",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "330",
+        "name": "CibleR Coulommiers",
+        "address": {
+          "streetAddress": "77120 random address",
+          "zipCode": "77120",
+          "city": "COULOMMIERS",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "331",
+        "name": "CibleR Porto Vecchio",
+        "address": {
+          "streetAddress": "20137 random address",
+          "zipCode": "20137",
+          "city": "PORTO VECCHIO",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "332",
+        "name": "CibleR Chauvigny",
+        "address": {
+          "streetAddress": "86300 random address",
+          "zipCode": "86300",
+          "city": "CHAUVIGNY",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "333",
+        "name": "CibleR Jonzac",
+        "address": {
+          "streetAddress": "17500 random address",
+          "zipCode": "17500",
+          "city": "JONZAC",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "334",
+        "name": "CibleR Autun",
+        "address": {
+          "streetAddress": "71400 random address",
+          "zipCode": "71400",
+          "city": "AUTUN",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "335",
+        "name": "CibleR Semur",
+        "address": {
+          "streetAddress": "21140 random address",
+          "zipCode": "21140",
+          "city": "SEMUR EN AUXOIS",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "336",
+        "name": "CibleR Bar sur Aube",
+        "address": {
+          "streetAddress": "10200 random address",
+          "zipCode": "10200",
+          "city": "BAR SUR AUBE",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "337",
+        "name": "CibleR Conflans",
+        "address": {
+          "streetAddress": "54800 random address",
+          "zipCode": "54800",
+          "city": "CONFLANS EN JARNISY",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "338",
+        "name": "CibleR Lure",
+        "address": {
+          "streetAddress": "70200 random address",
+          "zipCode": "70200",
+          "city": "LURE",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "339",
+        "name": "CibleR Tonnerre",
+        "address": {
+          "streetAddress": "89700 random address",
+          "zipCode": "89700",
+          "city": "TONNERRE",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "340",
+        "name": "CibleR Vichy",
+        "address": {
+          "streetAddress": "03300 random address",
+          "zipCode": "03300",
+          "city": "CUSSET",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "341",
+        "name": "CibleR Guerande",
+        "address": {
+          "streetAddress": "44350 random address",
+          "zipCode": "44350",
+          "city": "GUERANDE",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "342",
+        "name": "CibleR Noyers",
+        "address": {
+          "streetAddress": "41140 random address",
+          "zipCode": "41140",
+          "city": "NOYERS SUR CHER",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "343",
+        "name": "CibleR Pontchâteau",
+        "address": {
+          "streetAddress": "44160 random address",
+          "zipCode": "44160",
+          "city": "PONTCHATEAU",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "344",
+        "name": "CibleR Segre",
+        "address": {
+          "streetAddress": "49500 random address",
+          "zipCode": "49500",
+          "city": "SAINTE GEMMES D'ANDIGNE",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "345",
+        "name": "CibleR Saint Maixent",
+        "address": {
+          "streetAddress": "79400 random address",
+          "zipCode": "79400",
+          "city": "AZAY LE BRULE",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "346",
+        "name": "CibleR Oloron",
+        "address": {
+          "streetAddress": "64400 random address",
+          "zipCode": "64400",
+          "city": "OLORON SAINTE MARIE",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "347",
+        "name": "CibleR Chantonnay",
+        "address": {
+          "streetAddress": "85110 random address",
+          "zipCode": "85110",
+          "city": "CHANTONNAY",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "348",
+        "name": "CibleR Loches",
+        "address": {
+          "streetAddress": "37600 random address",
+          "zipCode": "37600",
+          "city": "LOCHES",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "349",
+        "name": "CibleR Montereau",
+        "address": {
+          "streetAddress": "77130 random address",
+          "zipCode": "77130",
+          "city": "MONTEREAU FAULT YONNE",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "350",
+        "name": "CibleR Luçon",
+        "address": {
+          "streetAddress": "85400 random address",
+          "zipCode": "85400",
+          "city": "LUCON",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "351",
+        "name": "CibleR Geneston",
+        "address": {
+          "streetAddress": "44140 random address",
+          "zipCode": "44140",
+          "city": "GENESTON",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "352",
+        "name": "CibleR Tavers",
+        "address": {
+          "streetAddress": "45190 random address",
+          "zipCode": "45190",
+          "city": "TAVERS",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "353",
+        "name": "CibleR Royan",
+        "address": {
+          "streetAddress": "17200 random address",
+          "zipCode": "17200",
+          "city": "ROYAN",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "354",
+        "name": "CibleR Soissons",
+        "address": {
+          "streetAddress": "02200 random address",
+          "zipCode": "02200",
+          "city": "VAUXBUIN",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "355",
+        "name": "CibleR Chinon",
+        "address": {
+          "streetAddress": "37500 random address",
+          "zipCode": "37500",
+          "city": "CHINON",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "356",
+        "name": "CibleR Parthenay",
+        "address": {
+          "streetAddress": "79200 random address",
+          "zipCode": "79200",
+          "city": "PARTHENAY",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "357",
+        "name": "CibleR Saint Die",
+        "address": {
+          "streetAddress": "88100 random address",
+          "zipCode": "88100",
+          "city": "SAINT DIE DES VOSGES",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "358",
+        "name": "CibleR Colmar",
+        "address": {
+          "streetAddress": "68000 random address",
+          "zipCode": "68000",
+          "city": "COLMAR",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "359",
+        "name": "CibleR Nancy",
+        "address": {
+          "streetAddress": "54180 random address",
+          "zipCode": "54180",
+          "city": "HOUDEMONT",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "360",
+        "name": "CibleR Claye Souilly",
+        "address": {
+          "streetAddress": "77410 random address",
+          "zipCode": "77410",
+          "city": "CLAYE SOUILLY",
+          "country": "France"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "361",
+        "name": "CibleR Vitry sur Seine",
+        "address": {
+          "streetAddress": "94400 random address",
+          "zipCode": "94400",
+          "city": "VITRY SUR SEINE",
+          "country": "France"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "362",
+        "name": "CibleR Gennevilliers",
+        "address": {
+          "streetAddress": "92230 random address",
+          "zipCode": "92230",
+          "city": "GENNEVILLIERS",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "363",
+        "name": "CibleR Ezanville",
+        "address": {
+          "streetAddress": "95460 random address",
+          "zipCode": "95460",
+          "city": "EZANVILLE",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "364",
+        "name": "CibleR Creteil",
+        "address": {
+          "streetAddress": "94000 random address",
+          "zipCode": "94000",
+          "city": "CRETEIL",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "365",
+        "name": "CibleR Haguenau",
+        "address": {
+          "streetAddress": "67590 random address",
+          "zipCode": "67590",
+          "city": "SCHWEIGHOUSE SUR MODER",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "366",
+        "name": "CibleR Herblay",
+        "address": {
+          "streetAddress": "95220 random address",
+          "zipCode": "95220",
+          "city": "HERBLAY",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "367",
+        "name": "CibleR Saint Egreve",
+        "address": {
+          "streetAddress": "38120 random address",
+          "zipCode": "38120",
+          "city": "SAINT EGREVE",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "368",
+        "name": "CibleR Orgeval",
+        "address": {
+          "streetAddress": "78630 random address",
+          "zipCode": "78630",
+          "city": "ORGEVAL",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "369",
+        "name": "CibleR Douai",
+        "address": {
+          "streetAddress": "59119 random address",
+          "zipCode": "59119",
+          "city": "WAZIERS",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "370",
+        "name": "CibleR Besancon Sud",
+        "address": {
+          "streetAddress": "25000 random address",
+          "zipCode": "25000",
+          "city": "BESANCON",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "371",
+        "name": "CibleR Mimizan",
+        "address": {
+          "streetAddress": "40200 random address",
+          "zipCode": "40200",
+          "city": "MIMIZAN",
+          "country": "FRANCE"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "372",
+        "name": "CibleR Roncq Neuville-en-ferrain",
+        "address": {
+          "streetAddress": "59960 random address",
+          "zipCode": "59960",
+          "city": "NEUVILLE-EN-FERRAIN",
+          "country": "France"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "373",
+        "name": "CibleR Sarlat",
+        "address": {
+          "streetAddress": "24200 random address",
+          "zipCode": "24200",
+          "city": "SARLAT LA CANEDA",
+          "country": "France"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "374",
+        "name": "CibleR Issoire",
+        "address": {
+          "streetAddress": "63500 random address",
+          "zipCode": "63500",
+          "city": "ISSOIRE",
+          "country": "France"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "375",
+        "name": "CibleR Arras",
+        "address": {
+          "streetAddress": "62161 random address",
+          "zipCode": "62161",
+          "city": "DUISANS",
+          "country": "France"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "376",
+        "name": "CibleR Vernon",
+        "address": {
+          "streetAddress": "27950 random address",
+          "zipCode": "27950",
+          "city": "ST MARCEL",
+          "country": "France"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "377",
+        "name": "CibleR Vitré",
+        "address": {
+          "streetAddress": "35500 random address",
+          "zipCode": "35500",
+          "city": "VITRé",
+          "country": "France"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "378",
+        "name": "CibleR Pornic",
+        "address": {
+          "streetAddress": "44210 random address",
+          "zipCode": "44210",
+          "city": "PORNIC",
+          "country": "France"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "379",
+        "name": "CibleR Pont l'Eveque",
+        "address": {
+          "streetAddress": "14130 random address",
+          "zipCode": "14130",
+          "city": "PONT L EVEQUE",
+          "country": "France"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "380",
+        "name": "CibleR Saran",
+        "address": {
+          "streetAddress": "45770 random address",
+          "zipCode": "45770",
+          "city": "SARAN",
+          "country": "France"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "381",
+        "name": "CibleR Nantes Reze",
+        "address": {
+          "streetAddress": "44400 random address",
+          "zipCode": "44400",
+          "city": "REZE",
+          "country": "France"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "382",
+        "name": "CibleR St Yrieix",
+        "address": {
+          "streetAddress": "87500 random address",
+          "zipCode": "87500",
+          "city": "SAINT YRIEIX LA PERCHE",
+          "country": "France"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "383",
+        "name": "CibleR Chateau Thierry",
+        "address": {
+          "streetAddress": "02400 random address",
+          "zipCode": "02400",
+          "city": "CHATEAU THIERRY",
+          "country": "France"
+        }
+      }
+    },
+    {
+      "shopInfos": {
+        "id": "384",
+        "name": "CibleR Charancieu",
+        "address": {
+          "streetAddress": "38490 random address",
+          "zipCode": "38490",
+          "city": "CHARANCIEU",
+          "country": "France"
+        }
+      }
+    }
+  ]
+}
